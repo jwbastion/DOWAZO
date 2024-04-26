@@ -29,4 +29,8 @@
 
 
 #### Algorithm
+![구조도](https://github.com/jwbastion/DOWAZO/blob/main/Image/flowchart.png)
 
+
+#### Structure
+![구성도]()
