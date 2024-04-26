@@ -15,7 +15,7 @@
 
 ## 📋 Subject : Safety 방범 로봇
 
-#### 시나리오
+### 🎞️ 시나리오
 1. 미아/실종자 정보 확인(서버)
 2. CCTV를 이용하여 미아/실종자의 인상착의와 상응하는 인물 탐색
 3. 인물 발견 시 CCTV에서 위치 정보와 미아/실종자의 인상착의를 터틀봇에 전달
@@ -28,9 +28,9 @@
    4-2 미아/실종자와 불일치 시 : 
 
 
-#### Algorithm
+### 🔎 Algorithm
 ![구조도](https://github.com/jwbastion/DOWAZO/blob/main/Image/flowchart.png)
 
 
-#### Structure
+### 🗃️ Structure
 ![구성도](https://github.com/jwbastion/DOWAZO/blob/main/Image/structure.png)
