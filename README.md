@@ -33,4 +33,4 @@
 
 
 #### Structure
-![구성도]()
+![구성도](https://github.com/jwbastion/DOWAZO/blob/main/Image/structure.png)
